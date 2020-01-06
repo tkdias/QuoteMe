@@ -1,0 +1,28 @@
+================================================================================================
+Ishihara 
+
+Tritanopia/Tritanomaly: Missing/malfunctioning S-cone (blue).
+Deuteranopia/Deuteranomaly: Missing/malfunctioning M-cone (green).
+Protanopia/Protanomaly: Missing/malfunctioning L-cone (red).
+
+================================================================================================
+     
+     
+      $op01 = 12; //Normal & all sort of colour vision deficiencies read it as 12
+      $op02 = 8;  //Red-green deficiencies read as 3  | Total Colour blindness cannot read anything = 0
+      $op03 = 29; //Red-green deficiencies read as 70 | Total Colour blindness cannot read anything = 0
+      $op04 = 5;  //Red-green deficiencies read as 2  | Total Colour blindness cannot read anything = 0
+      $op05 = 3;  //Red-green deficiencies read as 5  | Total Colour blindness cannot read anything = 0
+      $op06 = 15; //Red-green deficiencies read as 17  | Total Colour blindness cannot read anything = 0
+      $op07 = 74; //Red-green deficiencies read as 21  | Total Colour blindness cannot read anything = 0
+      $op08 = 6;  //Colour blindness cannot read anything or read them incorrectly = 0 or ?
+      $op09 = 45; //Colour blindness cannot read anything or read them incorrectly = 0 or ?
+      $op10 = 5;  //Colour blindness cannot read anything or read them incorrectly = 0 or ?
+      $op11 = 7;  //Colour blindness cannot read anything or read them incorrectly = 0 or ?
+      $op12 = 16; //Colour blindness cannot read anything or read them incorrectly = 0 or ?
+      $op13 = 73; //Colour blindness cannot read anything or read them incorrectly = 0 or ?
+      $op14 = 0;  //Red-green deficiencies read as 5
+      $op15 = 0;  //Red-green deficiencies read as 45
+      $op16 = 26; //Protanopia & stong protanomia read as 6 | Deuteranopia & stong Deuteranomalia as 2
+      $op17 = 42; //Protanopia & stong Protanopia read as 2 | Deuteranopia & stong Deuteranomalia as 4
+
