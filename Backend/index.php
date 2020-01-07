@@ -4,14 +4,14 @@
 <head>
 
 	<script>
-	setTimeout(function () {window.location.href= 'section.php';},9000);
+	setTimeout(function () {window.location.href= 'section.php';},8000);
 	</script>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Smart EE Checkup | Platform</title>
+    <title>Quote Me | Platform</title>
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
@@ -29,8 +29,7 @@
     <!-- Start your code here --------------------------------------------------------- -->
     <div style="height: 100vh">
         <div class="flex-center">
-            <font  size="12" color="#FFFFFF" class="animated fadeInDownBig" align="center" >Automated Centralized <br>Smart EE Checkup
-Portal Network System <br> to Check the Vision and Hearing of The Patients</font>
+            <font  size="12" color="#FFFFFF" class="animated fadeInDownBig" align="center" >"QUOTE ME" <br>Smart Vehicle Insurance  <br>Quotation Platform</font>
         </div>
     </div>
     <!-- /End your code here ---------------------------------------------------------- -->
