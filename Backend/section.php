@@ -33,8 +33,7 @@
 <div class="login-box">
   <div class="login-logo">
     <!-- <a href="index.php">UNIVERSAL<b> GYM</b></a> -->
-	<a href="index.php"><font size="6" color="#FFFFFF" class="animated fadeInDownBig" align="center" >Automated Centralized Smart EE Checkup
-Portal Network System</font></a>
+	<a href="index.php"><font size="6" color="#FFFFFF" class="animated fadeInDownBig" align="center" >"QUOTE ME" <br>Smart Vehicle Insurance  <br>Quotation Platform</font></a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
@@ -47,11 +46,11 @@ Portal Network System</font></a>
     <form action="login.php" method="post">
 
     <div class="form-group has-feedback">
-      <a href="login_p.php"><button type="button" class="btn btn-block btn bg-navy btn-flat">PATIENT</button></a>
+      <a href="login_p.php"><button type="button" class="btn btn-block btn bg-navy btn-flat">CUSTOMERS</button></a>
       </div>
 
       <div class="form-group has-feedback">
-      <a href="login_d.php"><button type="button" class="btn btn-block btn bg-navy btn-flat">DOCTOR</button></a>
+      <a href="login_d.php"><button type="button" class="btn btn-block btn bg-navy btn-flat">INSURANCE PROVIDERS</button></a>
       </div>
 
       <div class="form-group has-feedback">

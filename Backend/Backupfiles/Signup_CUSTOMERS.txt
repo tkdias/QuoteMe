@@ -1,0 +1,31 @@
+Title *             Select : Mr./ Mrs./ Miss./ Master/ Dr./ Doc./ Rev./ Dr.(Miss.)/ Maj./ Prof./ Ms./ M/s./ Dr.(Mrs.)/ Maj.Gen
+First Name *        Textbox  : Enter your first name
+Last Name *         Textbox  : Enter your last name
+Middle Names        Textbox  : Enter other names
+
+Are you a Sri Lankan Citizen?   Radio : Yes   	No
+
+Country *           Select :
+NIC Number *        Textbox  : Enter NIC number
+Passport Number     Textbox  : Enter Passport number
+Date of Birth *     Date picker : Date of birth
+Gender *            Radio    : Male   	Female
+Email *             Textbox  : Enter your email address
+Occupation          Textbox  : Enter your occupation
+
+Address Line 1 *    Textbox  : Enter your address line 1
+Address Line 2 *    Textbox  : Enter your address line 2
+Address Line 3      Textbox  : Enter your address line 3
+Address Line 4      Textbox  : Enter your address line 4
+Province*           Select   : Enter your province
+City / Town *       Select   : Enter your city or town
+Postal / Zip Code   Textbox  : Enter postal/zip code
+
+Mobile Number *      Phone mask:  : Enter your mobile no.
+Home Number          Phone mask:  : Enter your Home no.
+Residential tel. no. Phone mask:  : Enter your Residential tel. no.
+Office tel. no.      Phone mask:  : Enter your Office tel. no.
+
+By clicking the button "Submit" below, you confirm that you have read the terms and conditions, that you understand them and that you agree to be bound by them.
+
+
