@@ -3,21 +3,20 @@ First Name *        Textbox  : Enter your first name
 Last Name *         Textbox  : Enter your last name
 Middle Names        Textbox  : Enter other names
 
-Country *           Select :
 NIC Number *        Textbox  : Enter NIC number
 Passport Number     Textbox  : Enter Passport number
 Date of Birth *     Date picker : Date of birth
 Gender *            Radio    : Male   	Female
 Email *             Textbox  : Enter your email address
 
-Company Name *      Select : Mr./ Mrs./ Miss./ Master/ Dr./ Doc./ Rev./ Dr.(Miss.)/ Maj./ Prof./ Ms./ M/s./ Dr.(Mrs.)/ Maj.Gen
+Company Name *      Select : Sri Lanka Insurance Corporation Ltd./ Janashakthi Insurance PLC/ Ceylinco Insurance Plc
 Job Position *      Textbox  : Enter your Job Position
 
-Address Line 1 *    Textbox  : Enter your address line 1
+Address Line 1 (House No) *    Textbox  : Enter your address line 1
 Address Line 2 *    Textbox  : Enter your address line 2
 Address Line 3      Textbox  : Enter your address line 3
-Address Line 4      Textbox  : Enter your address line 4
-Province*           Select   : Enter your province / Central Province/ Eastern Province/ Northern Province/ Southern Province/ Western Province/ North Western Province/ North Central Province/ Uva Province/ Sabaragamuwa Province
+Province*           Select   : Enter your province
+District*           Select   : Enter your district
 City / Town *       Select   : Enter your city or town
 Postal / Zip Code   Textbox  : Enter postal/zip code
 

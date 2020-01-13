@@ -3,7 +3,6 @@ First Name *        Textbox  : Enter your first name
 Last Name *         Textbox  : Enter your last name
 Middle Names        Textbox  : Enter other names
 
-Country *           Select :
 NIC Number *        Textbox  : Enter NIC number
 Passport Number     Textbox  : Enter Passport number
 Date of Birth *     Date picker : Date of birth
@@ -11,11 +10,11 @@ Gender *            Radio    : Male   	Female
 Email *             Textbox  : Enter your email address
 Job Title          Textbox  : Enter your occupation
 
-Address Line 1 *    Textbox  : Enter your address line 1
+Address Line 1 (House No) *    Textbox  : Enter your address line 1
 Address Line 2 *    Textbox  : Enter your address line 2
 Address Line 3      Textbox  : Enter your address line 3
-Address Line 4      Textbox  : Enter your address line 4
 Province*           Select   : Enter your province
+District*           Select   : Enter your district
 City / Town *       Select   : Enter your city or town
 Postal / Zip Code   Textbox  : Enter postal/zip code
 

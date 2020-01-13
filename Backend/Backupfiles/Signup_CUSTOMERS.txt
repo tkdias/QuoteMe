@@ -13,11 +13,11 @@ Gender *            Radio    : Male   	Female
 Email *             Textbox  : Enter your email address
 Occupation          Textbox  : Enter your occupation
 
-Address Line 1 *    Textbox  : Enter your address line 1
+Address Line 1 (House No) *    Textbox  : Enter your address line 1
 Address Line 2 *    Textbox  : Enter your address line 2
 Address Line 3      Textbox  : Enter your address line 3
-Address Line 4      Textbox  : Enter your address line 4
 Province*           Select   : Enter your province
+District*           Select   : Enter your district
 City / Town *       Select   : Enter your city or town
 Postal / Zip Code   Textbox  : Enter postal/zip code
 
