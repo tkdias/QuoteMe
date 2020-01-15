@@ -8,6 +8,7 @@ Are you a Sri Lankan Citizen?   Radio : Yes   	No
 Country *           Select :
 NIC Number *        Textbox  : Enter NIC number
 Passport Number     Textbox  : Enter Passport number
+Driving Licence Number  Textbox  : Enter DL number
 Date of Birth *     Date picker : Date of birth
 Gender *            Radio    : Male   	Female
 Email *             Textbox  : Enter your email address
@@ -27,5 +28,3 @@ Residential tel. no. Phone mask:  : Enter your Residential tel. no.
 Office tel. no.      Phone mask:  : Enter your Office tel. no.
 
 By clicking the button "Submit" below, you confirm that you have read the terms and conditions, that you understand them and that you agree to be bound by them.
-
-

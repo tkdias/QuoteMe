@@ -1,0 +1,18 @@
+NIC Number *        Textbox  : Enter NIC number
+Passport Number     Textbox  : Enter Passport number
+Driving Licence Number   Textbox  : Enter DL number
+
+
+First select 
+Customer NIC and Number of accidents 
+then click ok
+Then it make forms with seperate no of accident sections
+
+Accident no : 
+Vehicle No  : 
+Accident data and time :
+Fault type (Accident by) : Owner/ 3rd Party
+Claim Amount :
+
+Add Accidental Report
+

@@ -1,0 +1,12 @@
+Vehicle Type            : Car, Dual Purpose, Three Wheeler, Motor Cycle
+Insurance Type          : Full Insurance, 3rd Party Insurance
+Vehicle registration    : Registration No (KD-XXXX)
+Do you have any Lease,Loan or Hire on vehicle: YES/ NO
+Estimated Market Value  : 
+Usage                   : Private, Hiring, Rent
+Choose the type of fuel : Petrol, Diesel, Hybrid, Electric
+Make                    : 
+Model                   : 
+Year of Manufacture     :
+
+Get a Quick Quote
