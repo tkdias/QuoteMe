@@ -1,0 +1,58 @@
+Customer_ID				: CID0000341
+Insurance_Q_ID			: IQD0000152
+Insurance_Name			: Ceylinco General Insurance Limited.
+Insurance Type          : Full Insurance
+Staff_Member			: Anura Kumara
+Annual_Payment			: 60000.00
+Forwarded				: Yes
+Status					: Selected / rejected / moderate
+Broker Fee				: 2%
+
+Forward Quotation
+
+
+Customer_ID				: CID0000341
+Insurance_Q_ID			: IQD0000153
+Insurance_Name			: Allianz Insurance Lanka Ltd
+Insurance Type          : Full Insurance
+Staff_Member			: Saman abeysekara
+Annual_Payment			: 55000.00
+Forwarded				: No
+Status					: Selected / rejected / moderate
+Broker Fee				: 2%
+
+Forward Quotation
+
+
+
+Customer_ID				: CID0000341
+Insurance_Q_ID			: IQD0000154
+Insurance_Name			: People's Insurance PLC
+Insurance Type          : Full Insurance
+Staff_Member			: Shehan perera
+Annual_Payment			: 65000.00
+Forwarded				: No
+Status					: Selected / rejected / moderate
+Broker Fee				: 2%
+
+Forward Quotation
+
+
+
+Customer_ID				: CID0000341
+Insurance_Q_ID			: IQD0000155
+Insurance_Name			: Co-operative Insurance Company Ltd
+Insurance Type          : Full Insurance
+Staff_Member			: Oshadha Punchihewa
+Annual_Payment			: 50000.00
+Forwarded				: No
+Status					: Selected / rejected / moderate
+Broker Fee				: 2%
+
+Forward Quotation
+
+
+
+
+
+

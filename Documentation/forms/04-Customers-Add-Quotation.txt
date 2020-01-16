@@ -8,5 +8,6 @@ Choose the type of fuel : Petrol, Diesel, Hybrid, Electric
 Make                    : 
 Model                   : 
 Year of Manufacture     :
+Year of Registration    :
 
 Get a Quick Quote

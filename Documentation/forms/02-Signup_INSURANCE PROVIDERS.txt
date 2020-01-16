@@ -26,4 +26,6 @@ Office tel. no.      Phone mask:  : Enter your Office tel. no.
 
 By clicking the button "Submit" below, you confirm that you have read the terms and conditions, that you understand them and that you agree to be bound by them.
 
+Insurance providers should be approved by the admin, after the registration and before the login
+
 

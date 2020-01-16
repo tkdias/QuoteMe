@@ -1,0 +1,29 @@
+Customer_ID				: CID0000341
+Payment_ID				: PCD0000152
+Insurance_Name			: Ceylinco General Insurance Limited.
+Insurance Type          : Full Insurance
+Annual_Payment			: 60000.00 + 1300.00 (Add Broker fee) //previous form
+Bank Name				: Sampath Bank
+Bank Recipt ID			: 840189
+email					: Registered email with disabled text box
+Contact No				: Registered Contact No with disabled text box
+
+Add Payment
+
+
+
+
+Payment should be approved manualy by checking emails(bank reciept) by admin and should approve payment
+
+When Payment approve by the Admin , then system list the details with customer(paid customers) details with send buttons.
+
+when customer click send button It listed on insuyrence providers dashboard
+
+Then Insurence Payments(60000.00) Added to the Total Due Payments list of the related insurence company (List as months)
+
+Then Broker free(2% ->1300.00) of the system Added to the Total Broker free Payments list with the related insurence company (List as months)
+
+
+
+
+

@@ -1,0 +1,23 @@
+Customer_ID				: CID0000341
+No Of Accidents			: 3
+Fault type (Accident by Owner) 	   : 2
+Fault type (Accident by 3rd Party) : 1
+Total Claim Amount (Accident by Owner) 	   : 100000.00
+Total Claim Amount (Accident by 3rd Party) :  55000.00
+Personal_Points			: 50%
+Vehicle Type            : Car, Dual Purpose, Three Wheeler, Motor Cycle
+Insurance Type          : Full Insurance, 3rd Party Insurance
+Vehicle registration    : Registration No (KD-XXXX)
+Do you have any Lease,Loan or Hire on vehicle: YES/ NO
+Estimated Market Value  : 
+Usage                   : Private, Hiring, Rent
+Choose the type of fuel : Petrol, Diesel, Hybrid, Electric
+Make                    : 
+Model                   : 
+Year of Manufacture     :
+Year of Registration    :
+
+
+Request Quotations
+
+

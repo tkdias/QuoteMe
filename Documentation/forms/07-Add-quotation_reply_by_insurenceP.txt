@@ -1,0 +1,7 @@
+Customer_ID				: CID0000341
+Insurance_Q_ID			: IQD0000152
+Insurance_Name			: Ceylinco General Insurance Limited.
+Staff_Member			: Anura Kumara
+Annual_Payment			: 60000.00
+
+Add Quotation Reply
